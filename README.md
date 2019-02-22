@@ -1,5 +1,7 @@
 # php-practice
 
+The solution of practices from https://www.hackerrank.com/
+
 ## 1 Counting Valleys
 
  Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like topography. During his last hike, he took exactly n steps. For every step he took, he noted if it was an uphill or a downhill step. Gary’s hikes start and end at sea level. We define the following terms:
